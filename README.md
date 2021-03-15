@@ -2,7 +2,6 @@
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 https://travis-ci.com/geraldo-marcio/DevOpsLab-HelloWorld.svg?branch=master
-
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
 
